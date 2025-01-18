@@ -1,16 +1,53 @@
-<script setup lang="ts">
+<script>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
+import SideBar from './components/SideBar2.vue'
+import HomeView from './components/HomeView.vue'
+import AboutView from './components/AboutView.vue'
+
+export default {
+  name: 'App',
+  components: {
+    SideBar,
+    HomeView,
+    AboutView
+  },
+  data() {
+    return {
+      currentView: 'home' // default to 'home'
+    }
+  },
+  methods: {
+    setView(viewName) {
+      this.currentView = viewName
+    }
+  }
+}
+
 </script>
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
+    <!-- <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
-    </div>
+    </div> -->
+
+
+  
+    <img alt="Vue logo" class="logo" src="./assets/treeGrowingInWater.jpeg" width="450" height="300" />
   </header>
+<!-- 
+    
+    <div>
+      <SideBar />
+    </div> -->
+    <div>
+      <SideBar @changeView="setView" />
+      <component :is="currentView" />
+    </div>
+
 
   <main>
     <TheWelcome />

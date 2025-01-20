@@ -4,13 +4,15 @@ import TheWelcome from './components/TheWelcome.vue'
 import SideBar from './components/SideBar2.vue'
 import HomeView from './components/HomeView.vue'
 import AboutView from './components/AboutView.vue'
+import Schedule from './components/Schedule.vue'
 
 export default {
   name: 'App',
   components: {
     SideBar,
     HomeView,
-    AboutView
+    AboutView,
+    Schedule
   },
   data() {
     return {

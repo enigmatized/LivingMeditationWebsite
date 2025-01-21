@@ -43,13 +43,13 @@ defineProps({
   </div>
 
   <div>
-    This money will go to the founders account. He will use this money for the expenses associated with running this group (zoom, website, etc).
-    Any left over funds will go to the larger vision.
+    This money will go to the founders account. They will use this money for the expenses associated with running this group (zoom, website, etc).
+    Any left over funds will go to the "larger vision."
   </div>
   <br>
   <h2>What is the larger vision?</h2>
   <br>
-  <div>I have a vision building a community/retreat center that helps:
+  <div>We have a vision of building a community/retreat center that helps:
     <ul>
       <li>People in recovery</li>
       <li>People transitioning to the end of their life</li>

@@ -13,6 +13,10 @@ defineProps({
     <h3>
     <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&mode=MONTH&src=M2UxNDA1M2FhODA5MzlmMzAxZWZjMzE3ODk1MzUxZjhlNGFiY2Q3NDdhYmViOTIxZjU2NTM2MmZiNWUwYTU5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
     </h3>
+
+    <a href="https://us06web.zoom.us/j/5620489534" target="_blank" rel="noopener noreferrer">
+    Zoom meeting Link: https://us06web.zoom.us/j/5620489534
+  </a>
   </div>
 </template>
 

@@ -5,6 +5,7 @@ import SideBar from './components/SideBar2.vue'
 import HomeView from './components/HomeView.vue'
 import AboutView from './components/AboutView.vue'
 import Schedule from './components/Schedule.vue'
+import Payments from './components/Payments.vue'
 
 export default {
   name: 'App',
@@ -12,7 +13,8 @@ export default {
     SideBar,
     HomeView,
     AboutView,
-    Schedule
+    Schedule,
+    Payments
   },
   data() {
     return {

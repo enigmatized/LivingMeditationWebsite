@@ -27,13 +27,27 @@ export default {
     <!--We are a group dedicated to squeezing the most out of life through the use of living meditaiton-->
     <!-- We are a community dedicated maximizing your awareness, conciousness and presence in life. -->
     Instead of focusing on sitting meditation, we focus on using life as our meditation object.
-    We run day long online retreat like practice sessions on the weekend. On weekdays we host evening practice sessions.
-    <br />
+    We run day long online retreat like practice sessions on the weekend. 
+    <br>
+    On weekdays we host evening practice sessions.
+    <br/>
+    See schedule for practice times.
+    <br>
   </div>
       <!-- <a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a> + -->
       <!-- <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>. -->
     </h3>
+
+
+    <br>
+    <a href="https://us06web.zoom.us/j/5620489534" target="_blank" rel="noopener noreferrer">
+    Zoom meeting Link: https://us06web.zoom.us/j/5620489534
+  </a>
+
+
   </div>
+
+
 </template>
 
 <style scoped>

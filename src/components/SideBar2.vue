@@ -3,7 +3,7 @@
       <button @click="$emit('changeView', 'HomeView')">Home</button>
       <button @click="$emit('changeView', 'AboutView')">About</button>
       <button @click="$emit('changeView', 'Schedule')">Practice Schedule</button>
-      <button @click="$emit('changeView', 'AboutView')">Help Fund This Project</button>
+      <button @click="$emit('changeView', 'Payments')">Help Fund This Project</button>
     </div>
   </template>
   

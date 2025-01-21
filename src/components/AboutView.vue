@@ -11,24 +11,16 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      We are a community dedicated maximizing your awareness, conciousness and presence in life.
-      Instead of focusing on sitting meditation, we focus on using life as our meditation object.
-      We run day long online retreat like practice sessions on the weekend. On weekdays we host evening practice sessions.
+      We are a community dedicated to deepening awareness, consciousness, and presence in daily life. Rather than focusing solely on traditional sitting meditation, we use life itself as our meditation object.
       <br />
-      Everyone uses this a little differently.
-      Some people use this as a time to help them get more work done.
-      Others might use it as a way to manage their stress.
-      Some people use it as a way to get more done in less time.
-      Other might use as vehicale to be a happier person and break repertive patterns of thinking/feeling/being.
-      Some may use it as a pathway to liberation.
+      We offer structured practice opportunities through day-long online weekend retreats and evening sessions during the week. Our members engage with these practices in ways that serve their unique paths:
       <br />
-      We are an online support group(shanga) that helps to support your practice and attain what you want.
+      Some harness these techniques to enhance their productivity and focus. Others find it transforms their relationship with stress and anxiety. Many discover they can accomplish more while doing less, breaking free from habitual patterns of thinking and being. For some, this practice becomes a path toward deeper liberation and understanding.
       <br />
-      Hopefully in the process we help people gain more awareness and make wiser decision in their life.
-      Maybe we will have a positive effect on the world. 
+      As an online sangha (spiritual community), we support each member's individual journey while fostering collective growth. Our aim is to help each person cultivate greater awareness and make wiser choices in their daily lives. Through this shared practice, we hope to create positive ripples that extend far beyond our immediate community.
       <br />
       <!-- <a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a> + -->
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
+      <!-- <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>. -->
     </h3>
   </div>
 </template>

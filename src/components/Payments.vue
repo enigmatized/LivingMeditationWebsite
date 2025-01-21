@@ -13,7 +13,7 @@ defineProps({
 
     <h2 class="blue">Everything we do here is for free.</h2>
     <br>
-    <h3>That being said, we have a larger of helping more people.
+    <h3>That being said, we have a larger goal of helping more people than our zoom friends.
     If you would like to help us with that goal, please consider donating.</h3>
     <a 
       href="https://venmo.com/code?user_id=2411422080303104602&created=1737400581" 
